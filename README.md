@@ -45,6 +45,8 @@ I hope to develop and find satisfaction in every beautiful creation 💖
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
+#
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ji-yeon-ing&show_icons=true&theme=midnight-purple)
 <!--
 **ji-yeon-ing/ji-yeon-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
